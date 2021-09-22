@@ -3,6 +3,8 @@
 <img src="color.png" width="250px">
 
 # 🎨 Color.css
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGnkalk%2FColor.css.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FGnkalk%2FColor.css?ref=badge_shield)
+
 Color.css is a micro css framework..
 
 </div>
@@ -45,3 +47,5 @@ This project is released under the BSD-3 license and any disaster on it is unimp
 ---
 
 Developed With 💪 by [Gnkalk](https://github.com/Gnkalk)
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGnkalk%2FColor.css.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGnkalk%2FColor.css?ref=badge_large)
